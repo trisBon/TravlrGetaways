@@ -62,5 +62,5 @@ process.on('SIGTERM', () => {
 
 connect();
 
-// brin in the Mongoose schema
-require('./models/travlr');
+// bin in the Mongoose schema
+require('./travlr');
