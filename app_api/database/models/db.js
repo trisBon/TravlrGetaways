@@ -64,3 +64,4 @@ connect();
 
 // bin in the Mongoose schema
 require('./travlr');
+require('./users');
